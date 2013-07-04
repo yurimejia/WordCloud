@@ -17,5 +17,7 @@ It consists of four steps:
 Example: PlotWordCloud("#kitsilano", 100) 
 produces the word cloud in kitsWD.png
 
-
-
+Note: To enable R to download tweets from Twitter, 
+we have followed the instructions in "Twitter Step" from 
+http://mpopov.com/post/42998479585/progress-notification-in-r
+ 
